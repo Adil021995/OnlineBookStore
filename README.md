@@ -16,3 +16,4 @@ Book cover images are loaded from Open Library Covers, and the typefaces are loa
 - `catalog.html?category=Fiction` — category pages (change the category in the URL)
 - `book.html?id=...` — full book detail page, opened from a book card
 - `utility.html?page=cart` — cart, wishlist, profile, login, signup, contact, about, and order tracking views
+Website deployment refresh.
